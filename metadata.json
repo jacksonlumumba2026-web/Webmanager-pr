@@ -1,0 +1,8 @@
+{
+  "name": "WebManager Pro",
+  "description": "White-label website management, source editor, GitHub publishing, and client portal platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
